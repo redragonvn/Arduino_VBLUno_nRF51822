@@ -30,7 +30,7 @@
 								"name":"arm-none-eabi-gcc",
 								"version":"4.8.3-2014q1"
 							},
-						]
+						],
 				}
 			],
 		"tools":
@@ -67,9 +67,9 @@
 								"archiveFileName":"gcc-arm-none-eabi-4.8.3-2014q1-linux32.tar.gz",
 								"checksum":"SHA-256:ba1994235f69c526c564f65343f22ddbc9822b2ea8c5ee07dd79d89f6ace2498",
 								"size":"51029223"
-							}
-						]
+							},
+						],
 				},
-			]
+			],
 	}
 }
