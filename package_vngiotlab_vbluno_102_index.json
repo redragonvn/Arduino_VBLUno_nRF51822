@@ -30,11 +30,6 @@
 								"name":"arm-none-eabi-gcc",
 								"version":"4.8.3-2014q1"
 							},
-							{
-								"packager":"VNGIoTLab",
-								"name":"nrfutil",
-								"version":"0.5.1"
-							}
 						]
 				}
 			],
@@ -75,34 +70,6 @@
 							}
 						]
 				},
-				{
-					"name":"nrfutil",
-					"version":"0.5.1",
-					"systems":
-						[
-					       {
-						  "host": "i686-linux-gnu",
-						  "url": "https://github.com/VNGIoTLab/Arduino_VBLUno_nRF51822/raw/master/nrfutil-0.5.1_linux_102.zip",
-						  "archiveFileName": "nrfutil-0.5.1_linux_102.zip",
-						  "size": "3328185",
-						  "checksum": "SHA-256:CC2542CC2484A8BEADA5E4611E4C23172652439DCF68F5682B1B703416684A88"
-					      },
-					      {
-						  "host": "x86_64-pc-linux-gnu",
-						  "url": "https://github.com/VNGIoTLab/Arduino_VBLUno_nRF51822/raw/master/nrfutil-0.5.1_linux_102.zip",
-						  "archiveFileName": "nrfutil-0.5.1_linux_102.zip",
-						  "size": "3328185",
-						  "checksum": "SHA-256:CC2542CC2484A8BEADA5E4611E4C23172652439DCF68F5682B1B703416684A88"
-					      },
-							{
-								"host":"i686-mingw32",
-								"url":"https://github.com/VNGIoTLab/Arduino_VBLUno_nRF51822/raw/master/nrfutil-0.5.1_102.zip",
-								"archiveFileName":"nrfutil-0.5.1_102.zip",
-								"checksum":"SHA-256:3F0473349815001052E29B181A20911E481B379A1F5AE114BB67D4FA7B34C883",
-								"size":"7305249"
-							}
-						]
-				}
 			]
 	}
 }
